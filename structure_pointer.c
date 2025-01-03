@@ -21,5 +21,5 @@ int main (){
     printf("percentage of sonu:%f\n",s.percentage);
     printf("rollnum of sonu:%d\n",s.rollnum);
 
-    return 0;
+    
 }
