@@ -1,3 +1,1 @@
-int n;
-    // printf("enter the number:");
-    // scanf("%d",&n);
+printf("factorial of n is:%d",factorial);
