@@ -2,8 +2,7 @@
 #include<stdio.h>
 #include<limits.h>
 int main (){
-    int arr[3][2]={{4,5},{5,6},{7,6}};
-    ;
+    int arr[3][2]={{4,5},{8,6},{7,6}};
     for (int i = 0; i <3; i++)
     {
         for (int j = 0; j < 2; j++)
